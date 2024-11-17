@@ -1,0 +1,286 @@
+{
+    "mobile": [
+      {
+        "carrier": "Viettel",
+        "prefixes": ["032", "033", "034", "035", "036", "037", "038", "039", "086", "096", "097", "098"]
+      },
+      {
+        "carrier": "Vinaphone",
+        "prefixes": ["083", "084", "085", "081", "082", "088", "091", "094"]
+      },
+      {
+        "carrier": "Mobifone",
+        "prefixes": ["070", "076", "077", "078", "079", "089", "090", "093"]
+      },
+      {
+        "carrier": "Vietnamobile",
+        "prefixes": ["052", "056", "058", "092"]
+      },
+      {
+        "carrier": "Gmobile",
+        "prefixes": ["059", "099"]
+      },
+      {
+        "carrier": "iTel",
+        "prefixes": ["087"]
+      },
+      {
+        "carrier": "Wintel",
+        "prefixes": ["055"]
+      }
+    ],
+    "landline": [
+      {
+        "province": "Hà Nội",
+        "prefixes": ["0240", "0241", "0242", "0243", "0244", "0245", "0246", "0247", "0248", "0249"]
+      },
+      {
+        "province": "TP.HCM",
+        "prefixes": ["0280", "0281", "0282", "0283", "0284", "0285", "0286", "0287", "0288", "0289"]
+      },
+      {
+        "province": "Đà Nẵng",
+        "prefixes": ["0236"]
+      },
+      {
+        "province": "An Giang",
+        "prefixes": ["0296"]
+      },
+      {
+        "province": "Bà Rịa – Vũng Tàu",
+        "prefixes": ["0254"]
+      },
+      {
+        "province": "Bạc Liêu",
+        "prefixes": ["0291"]
+      },
+      {
+        "province": "Bắc Kạn",
+        "prefixes": ["0209"]
+      },
+      {
+        "province": "Bắc Giang",
+        "prefixes": ["0204"]
+      },
+      {
+        "province": "Bắc Ninh",
+        "prefixes": ["0222"]
+      },
+      {
+        "province": "Bến Tre",
+        "prefixes": ["0275"]
+      },
+      {
+        "province": "Bình Dương",
+        "prefixes": ["0274"]
+      },
+      {
+        "province": "Bình Định",
+        "prefixes": ["0256"]
+      },
+      {
+        "province": "Bình Phước",
+        "prefixes": ["0271"]
+      },
+      {
+        "province": "Bình Thuận",
+        "prefixes": ["0252"]
+      },
+      {
+        "province": "Cà Mau",
+        "prefixes": ["0290"]
+      },
+      {
+        "province": "Cao Bằng",
+        "prefixes": ["0206"]
+      },
+      {
+        "province": "Cần Thơ",
+        "prefixes": ["0292"]
+      },
+      {
+        "province": "Đắk Lắk",
+        "prefixes": ["0262"]
+      },
+      {
+        "province": "Đắk Nông",
+        "prefixes": ["0261"]
+      },
+      {
+        "province": "Điện Biên",
+        "prefixes": ["0215"]
+      },
+      {
+        "province": "Đồng Nai",
+        "prefixes": ["0251"]
+      },
+      {
+        "province": "Đồng Tháp",
+        "prefixes": ["0277"]
+      },
+      {
+        "province": "Gia Lai",
+        "prefixes": ["0269"]
+      },
+      {
+        "province": "Hà Giang",
+        "prefixes": ["0219"]
+      },
+      {
+        "province": "Hà Nam",
+        "prefixes": ["0226"]
+      },
+      {
+        "province": "Hà Tĩnh",
+        "prefixes": ["0239"]
+      },
+      {
+        "province": "Hải Dương",
+        "prefixes": ["0220"]
+      },
+      {
+        "province": "Hải Phòng",
+        "prefixes": ["0225"]
+      },
+      {
+        "province": "Hòa Bình",
+        "prefixes": ["0218"]
+      },
+      {
+        "province": "Hậu Giang",
+        "prefixes": ["0293"]
+      },
+      {
+        "province": "Hưng Yên",
+        "prefixes": ["0221"]
+      },
+      {
+        "province": "Khánh Hòa",
+        "prefixes": ["0258"]
+      },
+      {
+        "province": "Kiên Giang",
+        "prefixes": ["0297"]
+      },
+      {
+        "province": "Kon Tum",
+        "prefixes": ["0260"]
+      },
+      {
+        "province": "Lai Châu",
+        "prefixes": ["0213"]
+      },
+      {
+        "province": "Lào Cai",
+        "prefixes": ["0214"]
+      },
+      {
+        "province": "Lạng Sơn",
+        "prefixes": ["0205"]
+      },
+      {
+        "province": "Lâm Đồng",
+        "prefixes": ["0263"]
+      },
+      {
+        "province": "Long An",
+        "prefixes": ["0272"]
+      },
+      {
+        "province": "Nam Định",
+        "prefixes": ["0228"]
+      },
+      {
+        "province": "Nghệ An",
+        "prefixes": ["0238"]
+      },
+      {
+        "province": "Ninh Bình",
+        "prefixes": ["0229"]
+      },
+      {
+        "province": "Ninh Thuận",
+        "prefixes": ["0259"]
+      },
+      {
+        "province": "Phú Thọ",
+        "prefixes": ["0210"]
+      },
+      {
+        "province": "Phú Yên",
+        "prefixes": ["0257"]
+      },
+      {
+        "province": "Quảng Bình",
+        "prefixes": ["0232"]
+      },
+      {
+        "province": "Quảng Nam",
+        "prefixes": ["0235"]
+      },
+      {
+        "province": "Quảng Ngãi",
+        "prefixes": ["0255"]
+      },
+      {
+        "province": "Quảng Ninh",
+        "prefixes": ["0203"]
+      },
+      {
+        "province": "Quảng Trị",
+        "prefixes": ["0233"]
+      },
+      {
+        "province": "Sóc Trăng",
+        "prefixes": ["0299"]
+      },
+      {
+        "province": "Sơn La",
+        "prefixes": ["0212"]
+      },
+      {
+        "province": "Tây Ninh",
+        "prefixes": ["0276"]
+      },
+      {
+        "province": "Thái Bình",
+        "prefixes": ["0227"]
+      },
+      {
+        "province": "Thái Nguyên",
+        "prefixes": ["0208"]
+      },
+      {
+        "province": "Thanh Hóa",
+        "prefixes": ["0237"]
+      },
+      {
+        "province": "Thừa Thiên – Huế",
+        "prefixes": ["0234"]
+      },
+      {
+        "province": "Tiền Giang",
+        "prefixes": ["0273"]
+      },
+      {
+        "province": "Trà Vinh",
+        "prefixes": ["0294"]
+      },
+      {
+        "province": "Tuyên Quang",
+        "prefixes": ["0207"]
+      },
+      {
+        "province": "Vĩnh Long",
+        "prefixes": ["0270"]
+      },
+      {
+        "province": "Vĩnh Phúc",
+        "prefixes": ["0211"]
+      },
+      {
+        "province": "Yên Bái",
+        "prefixes": ["0216"]
+      }
+    ]
+  }
